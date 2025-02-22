@@ -4,15 +4,18 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.---  Software engineering is the  application of engineering principles to the development, design, testing, deployment, and maintenance of software.
-  1. Ensures high-quality, maintainable software - Given that software engineering involves principles such as testing and maintenance, these principles enhance the better software quality and maintainable ones.
-
-  2. Reduces Development Costs and Time - Software engineering follows structured methodologies like Agile, DevOps, and SDLC (Software Development Life Cycle). These approaches help streamline the development process, ensuring that teams avoid costly mistakes, rework, and delays.
-
-  3. Helps Create Scalable and Secure Applications - Scalability ensures that an application can handle an increasing number of users, data, or transactions without performance issues. Software engineering principles, such as modular design, cloud integration, and efficient database management, contribute to building scalable systems. 
-
-  4. Supports Collaboration Among Developers, Testers, and Stakeholders - Software development is a team effort that requires effective communication and coordination. Engineering practices like version control (Git), Agile methodologies (Scrum, Kanban), and documentation ensure that developers, testers, and business stakeholders work together efficiently. 
-
+Explain what software engineering is and discuss its importance in the technology industry.---  
+  
+    Software engineering is the  application of engineering principles to the development, design, testing, deployment, and maintenance of software.
+  
+    1. Ensures high-quality, maintainable software - Given that software engineering involves principles such as testing and maintenance, these principles enhance the better software quality and maintainable ones.
+  
+    2. Reduces Development Costs and Time - Software engineering follows structured methodologies like Agile, DevOps, and SDLC (Software Development Life Cycle). These approaches help streamline the development process, ensuring that teams avoid costly mistakes, rework, and delays.
+  
+    3. Helps Create Scalable and Secure Applications - Scalability ensures that an application can handle an increasing number of users, data, or transactions without performance issues. Software engineering principles, such as modular design, cloud integration, and efficient database management, contribute to building scalable systems. 
+  
+    4. Supports Collaboration Among Developers, Testers, and Stakeholders - Software development is a team effort that requires effective communication and coordination. Engineering practices like version control (Git), Agile methodologies (Scrum, Kanban), and documentation ensure that developers, testers, and business stakeholders work together efficiently. 
+  
 Identify and describe at least three key milestones in the evolution of software engineering.
 
     1. The Birth of Software Engineering (1968):
