@@ -14,6 +14,7 @@ Explain what software engineering is and discuss its importance in the technolog
   4. Supports Collaboration Among Developers, Testers, and Stakeholders - Software development is a team effort that requires effective communication and coordination. Engineering practices like version control (Git), Agile methodologies (Scrum, Kanban), and documentation ensure that developers, testers, and business stakeholders work together efficiently. 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
     1. The Birth of Software Engineering (1968):
         The term "software engineering" was first introduced at the NATO Software Engineering Conference in 1968. The conference addressed the "software crisis", where large software projects often failed due to poor planning, cost overruns, and maintenance difficulties. This milestone marked the beginning of structured software development practices, emphasizing systematic design, documentation, and testing.
 
@@ -24,6 +25,7 @@ Identify and describe at least three key milestones in the evolution of software
         In 2001, the Agile Manifesto was introduced, shifting the focus from rigid, document-heavy development methods (like Waterfall) to flexible, iterative, and customer-focused development. Agile methodologies (such as Scrum and Kanban) promote continuous feedback, adaptability, and collaboration, leading to faster software delivery and improved quality. This milestone has greatly influenced modern software development, including DevOps and CI/CD (Continuous Integration/Continuous Deployment).
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
     1. planning - Define project scope, objectives, feasibility, and requirements
     2. Analysis - Clearly define what the software should do
     3. Design - Create a blueprint for the system architecture and UI/UX.
@@ -33,22 +35,24 @@ List and briefly explain the phases of the Software Development Life Cycle.
     7. Mintenance - Fix issues, improve performance and add new features.
     
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-  1. waterfall has a linear and sequential approach while agile has an iterative and incremental approach
-  2. waterfall has a rigid structure and difficulty in changing requirements while agile is highly flexible and adapts to changing requirements.
-  3. waterfall has got distinct phases in development while  agile hast a continous cycle of development
-  4. waterfall has a limited cutomer involvement until  the final product is delivered while agile has a frequent cutomer collaboration and feedback.
-  5. waterfall deliveres at the end of the project while agile deliveres in small functional increments.
-  6. waterfall is best for large well defined projects with fixed requirements while agile is used for dynamic projects where requierments may change.
-  7. in waterfall testing is done after development while in agile continous testing is done throughout the development.
 
-  exmaples of scenarios where waterfall would be appropriate include:
-    1.  construction and manufucturing projects.
-    2.  Government and defense projects
-    3. Banking and financial systems.
-  exmaples of scenarios where agile would be appropriate include:
-    1. Startups and Product development
-    2. Web and software development.
-    3. Game development
+
+    1. waterfall has a linear and sequential approach while agile has an iterative and incremental approach
+    2. waterfall has a rigid structure and difficulty in changing requirements while agile is highly flexible and adapts to changing requirements.
+    3. waterfall has got distinct phases in development while  agile hast a continous cycle of development
+    4. waterfall has a limited cutomer involvement until  the final product is delivered while agile has a frequent cutomer collaboration and feedback.
+    5. waterfall deliveres at the end of the project while agile deliveres in small functional increments.
+    6. waterfall is best for large well defined projects with fixed requirements while agile is used for dynamic projects where requierments may change.
+    7. in waterfall testing is done after development while in agile continous testing is done throughout the development.
+
+    exmaples of scenarios where waterfall would be appropriate include:
+      1.  construction and manufucturing projects.
+      2.  Government and defense projects
+      3. Banking and financial systems.
+    exmaples of scenarios where agile would be appropriate include:
+      1. Startups and Product development
+      2. Web and software development.
+      3. Game development
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
