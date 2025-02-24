@@ -151,6 +151,16 @@ Explain the different types of testing (unit, integration, system, and acceptanc
           1.  Detects issues in data flow and communication between components.
           2.  Identifies interface mismatches between different modules.
           3.  Ensures API calls and database interactions function correctly.
+    3.  System testing - System testing evaluates the entire application to ensure it meets requirements and works in a real-world environment.
+        importance include:
+          1.  Ensures the entire system functions properly
+          2.  Identifies issues that unit & integration tests miss
+          3.  Helps detect performance and security flaws
+    4.  Acceptance testing - determines if the software meets business requirements and is ready for deployment.
+        importance include:
+          1.  Ensures the software meets business goals
+          2.  Helps gain customer feedback before launch
+          3.  Prevents costly failures post-deployment
 
 
 #Part 2: Introduction to AI and Prompt Engineering
