@@ -59,9 +59,59 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+    The key responsibilities of a software developer include:
+      1.  Write clean, efficient, and maintainable code.
+      2.  Design and implement software features based on specifications.
+      3.  Debug and troubleshoot code issues.
+      4.  Collaborate with designers, QA engineers, and project managers.
+      5.  Optimize applications for performance and scalability.
+      6.  Follow best coding practices, version control (Git), and documentation.
+      7.  Stay updated with new technologies and frameworks.
+
+    The responsibilities of a quality assurance engineer include the following:
+      1.  Develop and execute test plans, test cases, and test scripts.
+      2.  Perform manual and automated testing such as unit tests, integration tests, regression tests.
+      3.  Identify, document, and track bugs using issue-tracking tools for instance, Jira.
+      4.  Ensure software meets functional, performance, and security standards.
+      5.  Work closely with developers to fix defects and improve software quality.
+      6.  Conduct usability testing and provide feedback on the user experience.
+
+    The roles and responsibilities for a project manager include:
+      1.  Define project scope, goals, and deliverables.
+      2.  Create and maintain project timelines, milestones, and deadlines.
+      3.  Communicate with stakeholders, these may include; clients, management, and team members.
+      4.  Manage risks and resolve bottlenecks affecting project completion.
+      5.  Ensure software is delivered within budget and meets business requirements.
+      6.  Facilitate meetings which may invlove; stand-ups, sprint planning, retrospectives.
+
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+      Importance of IDEs include:
+        1.  Increases productivity - Code completion, syntax highlighting, and debugging tools reduce development time.
+        2.  Enhances code quality - Features like linting, refactoring tools, and real-time error detection improve code structure and maintainability.
+        3.  Supports multiple technologies - IDEs support different programming languages, frameworks, and libraries.
+        4.  Integrates with version control - Many IDEs have built-in support for Git, Docker, and other DevOps tools.
+      Examples of IDEs include:
+        1.  Visual Studio Code
+        2.  Sublime text
+        3.  Atom
+        4.  Spyder
+        5   BlueJ
+        6.  IntelliJ IDEA
+
+
+      Importance of version control systems include:
+        1.  Code history and recovvery - Developers can track changes, revert to previous versions, and recover lost code.
+        2.  Collaboration and branching - Teams can work on different features or bug fixes simultaneously using branches.
+        3.  Conflict resolution and merging - Merges changes from different developers and resolves conflicts efficiently.
+        4.  Security and backup - Protects code from accidental loss or corruption and supports remote repositories.
+      Examples of VCS include:
+        1.  Git
+        2.  Subversion
+        3.  Mercurial
+        4.  Perforce
+        
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
