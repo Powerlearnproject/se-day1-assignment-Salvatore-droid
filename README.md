@@ -180,3 +180,13 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+    Vague prompt - "Tell me about history."
+    Clear, specific and concise prompt - "Provide a brief overview of the causes and key events of World War II, focusing on the period from 1939 to 1945."
+    
+    Reason as to Why the Improved Prompt is More Effective:
+      1.  Clarity: The improved prompt specifies the exact topic (World War II) and the time frame (1939–1945), eliminating ambiguity about which historical period or event is being discussed.
+      2.  Specificity: It narrows the focus to the causes and key events, guiding the AI to provide relevant and targeted information rather than a broad, unfocused response.
+      3.  Conciseness: The prompt is succinct and to the point, making it easier for the AI to understand and respond effectively without unnecessary details.
+      4.  Relevance: By explicitly stating the focus, the improved prompt ensures the response is aligned with the user's intent, avoiding irrelevant or tangential information.
+      5.  Efficiency: It reduces the likelihood of the AI generating overly general or off-topic content, saving time and improving the quality of the interaction.
