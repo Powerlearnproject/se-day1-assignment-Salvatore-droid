@@ -141,6 +141,17 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+    1.  Unit testing -  focuses on testing individual components or functions of a software application in isolation.
+        importance include:
+          1.  Ensures that each module or function behaves as expected.
+          2.  Helps detect bugs early in development, reducing debugging costs.
+          3.  Supports refactoring and code maintenance without breaking functionality.
+    2.  Integration testing - verifies that multiple modules or components work together correctly after being combined.
+        Importance include:
+          1.  Detects issues in data flow and communication between components.
+          2.  Identifies interface mismatches between different modules.
+          3.  Ensures API calls and database interactions function correctly.
+
 
 #Part 2: Introduction to AI and Prompt Engineering
 
